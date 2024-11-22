@@ -9,6 +9,7 @@ My CV in [pdf]()
 This is a repository to showcase skills, share projects and track my progress in Data Analytics
 
 ## Table of Contents
--[About]()
+-[About](https://github.com/AIMEEDN/Data-Analysis-Portfolio/blob/main/README.md)
 -[Portfolio Projects]()
-    -
+    - [Análisis de negocio](https://github.com/AIMEEDN/Data-Analysis-Portfolio/tree/main/An%C3%A1lisis-de-negocio)
+    - [Recopilación y almacenamiento de datos](https://github.com/AIMEEDN/Data-Analysis-Portfolio/tree/main/Recopilaci%C3%B3n-y-almacenamiento-de-datos)
